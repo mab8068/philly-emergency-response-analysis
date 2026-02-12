@@ -65,5 +65,5 @@ The complete ArcGIS Pro project is included as a **Project Package (.ppkx)**.
 
 **Manuel Badel**  
 Penn State University | Security and Risk Analysis  
-📧 mab8068@psu.edu  
-🔗 [GitHub](https://github.com/mab8068)
+mab8068@psu.edu  
+[GitHub](https://github.com/mab8068)
