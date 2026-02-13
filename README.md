@@ -25,7 +25,7 @@ Three maps were developed to support data-driven decision-making for urban resil
 ### 2. Statistically Significant Crash Clusters
 - **Analysis:** Optimized Hot Spot Analysis (Getis-Ord Gi*)
 - **Dataset:** PennDOT crash data, Philadelphia (2020–2024)
-- **Finding:** High-confidence crash clusters (95–99%) concentrated at key intersections
+- **Finding:** High-confidence crash clusters (90–99%) concentrated at key intersections
 - **Data:** OpenDataPhilly
 
 [View PDF](2_Philly_Crash_HotSpots.pdf)
